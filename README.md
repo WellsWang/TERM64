@@ -48,16 +48,16 @@ USB连接使用超薄隐形FPC USB连接线。Type A公头转Type C公头。
 
 ### 显示屏
 
-显示屏使用6.8寸 1280*480分辨率的带触摸和HDMI口的液晶显示屏。显示屏通过超薄FPC HDMI线和超薄FPC USB线与树莓派连接。
+显示屏使用6.8寸 1280*480分辨率的带触摸和HDMI口的液晶显示屏。显示屏通过超薄FFC HDMI线和超薄FFC USB线与树莓派连接。
 
 <img width="750" height="788" alt="image" src="https://github.com/user-attachments/assets/ca6b3a53-c0c3-44db-85aa-ad2ab50a9206" />
 
 HDMI线，需要选择15cm长，HDMI直对microhdmi直头带屏蔽软排线。
-<img width="750" height="960" alt="image" src="https://github.com/user-attachments/assets/846ec6ca-56d7-42fc-b436-ea5c47b7aab6" />
+<img width="844" height="694" alt="image" src="https://github.com/user-attachments/assets/2d228c31-36c8-4fdb-a4fb-03e9f518784a" />
 <img width="371" height="415" alt="image" src="https://github.com/user-attachments/assets/1bfec09f-7730-44b5-ba41-c71be4e42dfc" />
 <img width="358" height="363" alt="image" src="https://github.com/user-attachments/assets/0126b2ae-9030-4cf0-a33c-6e32d832596c" />
 
-USB线和上面键盘连接线一样，使用超薄隐形USB线，USB Type A公头转Micro USB 公头。Type A 那一头插在树莓派的USB2.0口。FPC排线要略长一些。
+USB线和上面键盘连接线一样，使用超薄隐形USB线，USB Type A公头转Micro USB 公头。Type A 那一头插在树莓派的USB2.0口。FFC排线要略长一些。
 <img width="750" height="563" alt="image" src="https://github.com/user-attachments/assets/faf069ca-b635-492c-bc0c-5d8a95ef3257" />
 
 以上软排线通过液晶显示屏外壳的线槽孔连接到主机壳内部，穿线走线、折弯时注意不要折断。
@@ -69,12 +69,12 @@ USB线和上面键盘连接线一样，使用超薄隐形USB线，USB Type A公�
 功放电路使用了PAM8403功放模块。可以安装在液晶显示屏外壳内。
 <img width="658" height="517" alt="image" src="https://github.com/user-attachments/assets/40af22a9-8149-41a4-ad84-2549ca4d03ca" />
 
-声音纯净的秘诀是攻防系统独立隔离供电，因此可以在主机使用的Waveshare的电源供电板上，从BAT接口引出11V的电源（3S直接输出），并使用一个DC-DC降压模块，输出5V3A的电流
+声音纯净的秘诀是功放系统独立隔离供电，因此可以在主机使用的Waveshare的电源供电板上，从BAT接口引出11V的电源（3S直接输出），并使用一个DC-DC降压模块，输出5V3A的电流
 
 HLK-B1205S-3WR3
 <img width="830" height="402" alt="image" src="https://github.com/user-attachments/assets/621c617b-c4bf-474a-a5df-dcb458a633f5" />
 
-电源输出端可以通过一个1mm间距的6P的FPC软排线通过线控输出到显示屏外壳中的PAM8403功放模块。为了确保大电流传送，可以将6P软排线的其中三根并接5V，另外三根并接GND。
+电源输出端可以通过一个1mm间距的6P的FFC软排线通过线控输出到显示屏外壳中的PAM8403功放模块。为了确保大电流传送，可以将6P软排线的其中三根并接5V，另外三根并接GND。
 <img width="508" height="498" alt="image" src="https://github.com/user-attachments/assets/4a6cc9c4-041d-4796-b53a-ae3fe0d58855" />
 <img width="805" height="609" alt="image" src="https://github.com/user-attachments/assets/2a8f14a2-cad1-4863-a4e1-ee5cd7fc22eb" />
 
