@@ -31,7 +31,7 @@ Model 25需要使用树莓派5作为计算核心。
 充电电路使用了Waveshare的树莓派不间断电源供电板（3S串联输出），并拆掉了上面的18650电池盒。
 <img width="960" height="576" alt="image" src="https://github.com/user-attachments/assets/9046abb9-0f81-4bcd-becc-adf7531ba2e5" />
 
-由于树莓派5对电流要求较高，电池使用了动力锂电池，尺寸规格为 85*67*6.2mm，数量为3块。
+由于树莓派5对电流要求较高，电池使用了动力锂电池，尺寸规格为 85x67x6.2mm，数量为3块。
 <img width="592" height="437" alt="image" src="https://github.com/user-attachments/assets/7849ae1d-7cda-4ce3-9bfa-7814542fd0c6" />
 
 电池焊接时注意安全，尽量使用点焊，不要长时间加热极板。
