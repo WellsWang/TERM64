@@ -13,7 +13,7 @@ A morden replica for TRS-80 Model 100.
 
 ## 文件说明
 
-- 在Model_25文件夹中3D_Model目录中包含了设计的源文件（可以用SketchUp打开）以及可直接打印的STL和3MF文件。
+- 在Model_25文件夹中3D_Model目录中包含了设计的源文件（可以用SketchUp打开）以及可直接打印的STL和3MF文件。 （铰链打印建议使用PC材料）
 
 - 在TELCOM_Application文件夹中，则是用来和TRS-80 Model 100串口通讯的软件以及协助它连上DeepSeek的程序的源代码。
 
