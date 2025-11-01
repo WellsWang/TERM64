@@ -69,7 +69,7 @@ USB线和上面键盘连接线一样，使用超薄隐形USB线，USB Type A公�
 功放电路使用了PAM8403功放模块。可以安装在液晶显示屏外壳内。
 <img width="658" height="517" alt="image" src="https://github.com/user-attachments/assets/40af22a9-8149-41a4-ad84-2549ca4d03ca" />
 
-声音纯净的秘诀是功放系统独立隔离供电，因此可以在主机使用的Waveshare的电源供电板上，从BAT接口引出11V的电源（3S直接输出），并使用一个DC-DC降压模块，输出5V3A的电流
+声音纯净的秘诀是功放系统独立隔离供电，因此可以在主机使用的Waveshare的电源供电板上，从BAT接口引出11V的电源（3S直接输出），并使用一个DC-DC降压模块，输出5V的电压
 
 HLK-B1205S-3WR3
 <img width="830" height="402" alt="image" src="https://github.com/user-attachments/assets/621c617b-c4bf-474a-a5df-dcb458a633f5" />
